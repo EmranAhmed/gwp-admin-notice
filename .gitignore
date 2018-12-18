@@ -1,4 +1,5 @@
-*
-!*.css
-!.gitignore
-!*.md
+.idea
+.DS_*
+node_modules
+package-lock.json
+mix-manifest.json
